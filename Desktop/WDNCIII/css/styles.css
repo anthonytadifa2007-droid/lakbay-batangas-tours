@@ -1,0 +1,54 @@
+html{
+scroll-behavior:smooth;
+}
+
+h1 {
+	color: #1329a4;
+	cursor:pointer;
+	font-size: 50px;
+   }
+
+nav a{
+	text-decoration: none;
+
+}
+#contact
+{
+background-color: #f3f476;
+}
+h1,h2,h3{line-height:1.2;}
+nav a{margin-right:12px;}
+
+p{color: #174ea6}
+
+html{
+	scroll-behavior: smooth;
+}
+
+h1{
+	color:#1329a4;
+	cursor: pointer;	
+	font-size:50px;
+}	
+
+nav a{
+	text-decoration: none;
+}
+
+#contact{
+	background-color: #1329a4;
+}
+
+h1,h2,h3{line-height:1,2;}
+nav a{ margin-right:12px;}
+
+p {color: red;}
+
+.paint{
+	color:skyblue;
+}
+
+body{
+	font-family: arial,sans-serif;
+	color:#1329a4;
+}
